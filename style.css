@@ -156,21 +156,21 @@ ul {
 .content-container {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     margin-bottom: 11.4vw;
     margin-top: 35px;
     margin-left: 10px;
     margin-right: 10px;   
+    width: 100vw;
 }
 
 .description {
-    float: left;
+    float: right;
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-right: 20px;
 }
 
 .pie-graph img {
     margin-left: 10px;
-    float: right;
+    float: left;
 }
